@@ -30,4 +30,9 @@ BrainPepPass is a machine learning (ML)-based framework that uses a supervised m
 :warning: This section is under construction
 
 ### Contacts
-:warning: This section is under construction
+The BrainPepPass is scientific colaboration of Federal University of Western Pará (Universidade Federal do Oeste do Pará, Brazil), Federal University of Pará (Universidade Federal do Pará, Brazil) and Univerity of Ghent (Belgium).
+In case of doubts about the use, scientific partnerships or improvements in the algorithm do not hesitate to contact us.
+Kauê Santana E-mail: kaue.costa@ufopa.edu.br
+Anderson Henrique Lima E-mail: anderson@ufpa.br
+Bart De Spiegeleer E-mail: Bart.DeSpiegeleer@ugent.be
+Claudomiro Sales E-mail: cssj@ufpa.br
