@@ -15,9 +15,9 @@ The online versions of the BrainPepPass available are based on feature compositi
 ### Google Colab version
 The Google Colab version of the BrainPepPass framework is an online tool where users can upload their monomeric peptides files and predict their permeability across the BBB. The users can access this BrainPepPass version [here](https://colab.research.google.com/drive/1O-obGm1mN7RdyevRzs3h0uQ0ZtIsNCa_?usp=sharing). The user manual can be downloaded [here](https://github.com/ewerton-cristhian/BrainPepPass/blob/master/manual/user_manual_BrainPepPass.pdf).
 
-:exclamation: Currently, only peptides encoded in .mol format are accepted in BrainPepPass. Soon we will be making available the option to upload peptides in other formats. 
-
 :key: To access this version of BrainPepPass, the user must have a free Google account.
+
+:exclamation: Currently, only peptides encoded in .mol format are accepted in BrainPepPass. Soon we will be making available the option to upload peptides in other formats. If the user has peptides in other formats, it is possible to convert their structures to .mol ​​(MDL Mol File) using the online [Babel tool](https://chemdb.ics.uci.edu/cgibin/BabelWeb.py).
 
 ### Web server version
 :warning: The web server with the BrainPepPass framework is under deployment. This tool will be available soon for users.
