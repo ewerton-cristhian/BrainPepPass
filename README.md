@@ -17,7 +17,7 @@ The Google Colab version of the BrainPepPass framework is an online tool where u
 
 :key: To access this version of BrainPepPass, the user must have a free Google account.
 
-:chart_with_upwards_trends: The Google Colab version of the BrainPepPass trained with all the available and unbalanced dataset (BrainPepPass 2.0) can be accessed [here](https://colab.research.google.com/drive/1l_j7KPp-nBwsGv-s8bzMA7ATCEixQmPo?usp=sharing). This version does not match the best model described in the paper, but a useful model that can predict BBB permeability for a wider range of peptides. 
+📈 The Google Colab version of the BrainPepPass trained with all the available and unbalanced dataset (BrainPepPass 2.0) can be accessed [here](https://colab.research.google.com/drive/1l_j7KPp-nBwsGv-s8bzMA7ATCEixQmPo?usp=sharing). This version does not match the best model described in the paper, but a useful model that can predict BBB permeability for a wider range of peptides. 
 
 :exclamation: Currently, only peptides encoded in .mol format are accepted in BrainPepPass. Soon we will be making available the option to upload peptides in other formats. If the user has peptides in other formats, it is possible to convert their structures to .mol ​​(MDL Mol File) using the online [Babel tool](https://chemdb.ics.uci.edu/cgibin/BabelWeb.py).
 
