@@ -3,7 +3,7 @@ BrainPepPass: A framework based on supervised dimensionality reduction for predi
 
 ### Overview
 
-BrainPepPass is a machine learning-based framework that uses a supervised manifold dimensionality reduction and eXtreme Gradient Boosting algorithms to predict if natural and chemically modified monomeric peptides can cross or not the blood-brain barrier (BBB). This computational tool uses structural and physiochemical properties extracted from peptides to predict the permeability. 
+BrainPepPass is a machine learning-based framework that uses a supervised manifold dimensionality reduction and eXtreme Gradient Boosting algorithms to predict if natural and chemically modified monomeric peptides, besides cyclic structures, can cross or not the blood-brain barrier (BBB). This computational tool uses structural and physiochemical properties extracted from peptides to predict BBB permeability. 
 
 The online versions of the BrainPepPass available are based on the best select model that encompasses the feature composition (FC)-4, as described in the paper "BrainPepPass: A framework based on supervised dimensionality reduction for predicting blood-brain barrier-penetrating peptides".
 
